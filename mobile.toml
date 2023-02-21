@@ -1,0 +1,5 @@
+[app]
+name = "timedog"
+stylized-name = "Timedog"
+domain = "odzi.dog"
+template-pack = "wry"
