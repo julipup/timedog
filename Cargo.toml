@@ -7,10 +7,6 @@ edition = "2018"
 [lib]
 crate-type = ["staticlib", "cdylib", "rlib"]
 
-[[bin]]
-name = "timedog-desktop"
-path = "gen/bin/desktop.rs"
-
 [package.metadata.cargo-android]
 app-activity-name = ".MainActivity"
 app-dependencies = [
